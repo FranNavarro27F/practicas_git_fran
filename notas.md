@@ -15,7 +15,9 @@ comandos:
 - ~ esto nos ayuda a tomar cierta cantidad numerica como referencia relativa,
 - git ckeckout main~4 - nos movera 4 comits antes de el ultimo de main.
 
+- git reset main~1 - este comando  revierte los cambios moviendo la referencia de una rama hacia atrás en el tiempo a un commit anterior. En este sentido podés pensarlo como "reescribir la historia". git reset va a mover la rama hacia atrás, como si el commit nunca se hubiera hecho.
 
+- git revert 
 
 - concepto: *head*: commit en donde estoy parado al ingresar a la rama. (comit en donde esta el foco, etc.)
           : *detachear*:Detachear (des-adjuntar) HEAD simplemente significa adjuntarla a un commit en lugar de a un branch.
