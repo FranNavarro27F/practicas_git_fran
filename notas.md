@@ -25,7 +25,7 @@ comandos:
           : *hash*: codigo (creado por git, un hash) asociado al nombre del comit.
           
 
--a eliminar-
+- a cambiar - 
 
 
 - git log   - este comando muestra o loguea todos los hashes de los comits.
