@@ -21,14 +21,17 @@ comandos:
 
 - git cherry-pick ejempoHashComit1 ejempoHashComit2 ...etc   - este comando capia los comits que indiquemos de las ramas que se nos cante, y crea tantos comits como tengamos copiados con esa misma informacion pero en la rama en donde estabamos parados, es decir: que tomamos el trabajo de otras ramas y lo colocamos donde querramos!-
 
+- git rebase -i   - rebase interactivo
 
 
 - concepto: *head*: commit en donde estoy parado al ingresar a la rama. (comit en donde esta el foco, etc.)
           : *detachear*:Detachear (des-adjuntar) HEAD simplemente significa adjuntarla a un commit en lugar de a un branch.
           : *atachear*: apuntar el head a un comit en particular.
           : *hash*: codigo (creado por git, un hash) asociado al nombre del comit.
-          
-
+          : *drag & drop*: arrastrar y soltar.
+          : *--* los dos guiones medios significan "pick".
+          : *squashear commits*: permite combinar varios comits en uno solo.
+          :
 
 
 
