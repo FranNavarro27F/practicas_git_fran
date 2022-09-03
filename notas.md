@@ -21,7 +21,7 @@ comandos:
 
 - git cherry-pick ejempoHashComit1 ejempoHashComit2 ...etc   - este comando capia los comits que indiquemos de las ramas que se nos cante, y crea tantos comits como tengamos copiados con esa misma informacion pero en la rama en donde estabamos parados, es decir: que tomamos el trabajo de otras ramas y lo colocamos donde querramos!-
 
-- git rebase -i   - rebase interactivo
+- git rebase -i   - complicadisimo de usar. resultados similares a cherry-pick
 
 
 - concepto: *head*: commit en donde estoy parado al ingresar a la rama. (comit en donde esta el foco, etc.)
