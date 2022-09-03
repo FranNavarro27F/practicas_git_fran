@@ -19,6 +19,10 @@ comandos:
 
 - git revert: revierte los cambios en el repositorio remoto, pero no es tan asi... revierte los cambios del ultimo comit al crear un nuevo commit con la info del anterior al cambio y luego hay que pushear ese nuevo comit que va a dejar todo como antes del cambio no deseado. (para usarse: comandos de consola linux  Esc + shift + :      luego tipear "w"(sin las commillas)para guardar, "q" (sin las comillas) para quitear);
 
+- git cherry-pick ejempoHashComit1 ejempoHashComit2 ...etc   - este comando capia los comits que indiquemos de las ramas que se nos cante, y crea tantos comits como tengamos copiados con esa misma informacion pero en la rama en donde estabamos parados, es decir: que tomamos el trabajo de otras ramas y lo colocamos donde querramos!-
+
+
+
 - concepto: *head*: commit en donde estoy parado al ingresar a la rama. (comit en donde esta el foco, etc.)
           : *detachear*:Detachear (des-adjuntar) HEAD simplemente significa adjuntarla a un commit en lugar de a un branch.
           : *atachear*: apuntar el head a un comit en particular.
