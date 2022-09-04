@@ -36,6 +36,10 @@ comandos:
           :
 
 
+<<<<<<< HEAD
 - holis grupo  -
+=======
+
+>>>>>>> parent of c57dcf9 (cambios)
 
 lñaksdjfklñasdjgklñasjdglñahjsfgñasdfhfñjsdfñljsadfas asdklñjfñaklsdjfñklasdjfñklasdjflñkasdjfñlkasdjfjasdfñjasdlfjasdldkfjasdkljfñasdflasdjklfasdjñf.
