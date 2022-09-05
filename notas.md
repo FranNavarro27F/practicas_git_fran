@@ -25,6 +25,8 @@ comandos:
 
 - git log   - este comando muestra o loguea todos los hashes de los comits.
 
+- git pull --rebase; git push
+
 - concepto:
           : *head*: commit en donde estoy parado al ingresar a la rama. (comit en donde esta el foco, etc.)
           : *detachear* (des-adjuntar) HEAD simplemente significa adjuntarla a un commit en lugar de a un branch.
@@ -38,10 +40,10 @@ comandos:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-- holis grupo  -
+<<<<<<< HEAD
 =======
-
->>>>>>> parent of c57dcf9 (cambios)
+>>>>>>> parent of 51dad8d (cambios3)
+- holis grupo  -
 
 lñaksdjfklñasdjgklñasjdglñahjsfgñasdfhfñjsdfñljsadfas asdklñjfñaklsdjfñklasdjfñklasdjflñkasdjfñlkasdjfjasdfñjasdlfjasdldkfjasdkljfñasdflasdjklfasdjñf.
 =======
