@@ -41,6 +41,10 @@ comandos:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- holis grupo  -
+>>>>>>> 793ea8fb33d6373a6b19fef3f687dca574926bfa
 =======
 >>>>>>> parent of 51dad8d (cambios3)
 - holis grupo  -
@@ -49,4 +53,11 @@ lñaksdjfklñasdjgklñasjdglñahjsfgñasdfhfñjsdfñljsadfas asdklñjfñaklsdjf�
 =======
 - holis grupo  -
 
+<<<<<<< HEAD
+=======
+lñaksdjfklñasdjgklñasjdglñahjsfgñasdfhfñjsdfñljsadfas asdklñjfñaklsdjfñklasdjfñklasdjflñkasdjfñlkasdjfjasdfñjasdlfjasdldkfjasdkljfñasdflasdjklfasdjñf.
+=======
+- holis grupo  -
+
+>>>>>>> 793ea8fb33d6373a6b19fef3f687dca574926bfa
 >>>>>>> 9ff428c432c413df0683b60058ab7c911b8ffbbb
